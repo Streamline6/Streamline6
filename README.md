@@ -1,9 +1,9 @@
 ![Developer | Designer](https://github.com/Streamline6/Streamline6/blob/main/Untitled%20design.png)
 ## Hi there 👋, I am Nik
-### Developer | Designer
+<h3 style="backgraound:#000; text-color:white">Developer | Designer @streamline6</h3>
 ### Reach me : webstreamline@gmail.com
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Streamline6" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
