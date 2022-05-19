@@ -1,6 +1,6 @@
 ![Developer | Designer](https://github.com/Streamline6/Streamline6/blob/main/Untitled%20design.png)
 ## Hi there 👋, I am Nik
-### Reach me : webstreamline@gmail.com
+### Reach me : webstreamline13@gmail.com
 ## Connect with me:
 <div align="left">
 <a href="https://github.com/Streamline6" target="_blank">
